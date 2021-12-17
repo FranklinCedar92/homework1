@@ -5,7 +5,7 @@ This is the Module 1 Challenge. I edited the preexisting code, mostly in consoli
 the top is fixed. The <div>s have all been renamed with HTML semantic titles. I reorganized the CSS file to match the order of the HTML file.
 
 Screenshot:
-I don't know how to include a screenshot here. I googled it and am attempting it below. I don't know if it will work. 
+I don't know how to include a screenshot here. I googled it and tried, but it didn't work. Here are the broken links anyway. 
 ![hero and header](./hw1/assets/images/hero&header.jpg)
 ![content 1](./hw1/assets/images/content1.jpg)
 ![content 2](./hw1/assets/images/content2.jpg)
