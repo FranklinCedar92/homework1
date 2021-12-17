@@ -6,9 +6,9 @@ the top is fixed. The <div>s have all been renamed with HTML semantic titles. I 
 
 Screenshot:
 I don't know how to include a screenshot here. I googled it and tried, but it didn't work. Here are the broken links anyway. 
-![hero and header](./hw1/assets/images/hero&header.jpg)
-![content 1](./hw1/assets/images/content1.jpg)
-![content 2](./hw1/assets/images/content2.jpg)
+![hero and header](./assets/images/hero&header.jpg)
+![content 1](./assets/images/content1.jpg)
+![content 2](./assets/images/content2.jpg)
 
 Link:
 https://franklincedar92.github.io/homework1/
